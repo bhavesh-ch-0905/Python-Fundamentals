@@ -21,16 +21,11 @@ A hands-on **Python Data Analysis capstone** focused on solving real-world busin
 
 ---
 
-## 🛠️ Skills & Tools Used
-
-**Languages & Libraries**
+## 🛠️ Tools Used
 
 - Python  
 - Pandas  
 - NumPy
-
- **Tools**
-  
 - Jupyter Notebook  
 
 ---
