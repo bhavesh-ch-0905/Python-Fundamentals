@@ -8,16 +8,16 @@ A hands-on **Python Data Analysis capstone** focused on solving real-world busin
 
 ## 📌 Tasks Implemented (All 10)
 
-1. Created an **employee DataFrame** from raw data  
-2. Removed **duplicate employee records**  
-3. Split **full name** into first and last name  
-4. Cleaned and standardized **date columns**  
-5. Applied **bonus calculation logic** for completed projects  
-6. Generated **employee designations** based on experience  
-7. Created **salary bands** using conditional logic  
-8. Promoted employees based on **age and performance rules**  
-9. Built a **final consolidated DataFrame**  
-10. Filtered employees from a **specific city with high salary**
+1. Created three DataFrames and saved them as **CSV files**  
+2. Filled missing project costs using **running average (`for` loop)**  
+3. Split employee name into **First Name** and **Last Name**  
+4. Merged all datasets into a single **Final DataFrame**  
+5. Added **5% bonus** for employees who completed projects  
+6. Demoted failed-project designations and **removed levels above 4**  
+7. Appended **Mr./Mrs.** to names and removed gender column  
+8. Promoted designation for employees **above 29 years**  
+9. Calculated **total project cost per employee** (`TotalProjCost`)  
+10. Filtered employees whose **city contains “o”**
 
 ---
 
